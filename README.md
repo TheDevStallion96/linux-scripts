@@ -1,2 +1,5 @@
 # linux-scripts
-linux-scripts
+
+```bash
+ sudo apt update
+ ```
