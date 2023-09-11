@@ -1,5 +1,6 @@
 # linux-scripts
 
+Install
 ```bash
- sudo apt update
+ git clone https://github.com/TheDevStallion96/linux-scripts
  ```
